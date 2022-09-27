@@ -9,3 +9,4 @@ Ideas(fell free to add):
 -> Bank Software (only for fun)
 -> Space game(shoot down asteroids)
 -> Use Yandex translate API for a translator app
+-> Doom like game. walk through a haunted house
